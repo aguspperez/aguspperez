@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> soy Agustín Ponce Perez
 
 <!--
 **aguspperez/aguspperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <em>
+    Hola, soy Agustín Ponce Perez, estudiante de último año de Ingeniería en Sistemas de la <a href="https://www.frcu.utn.edu.ar/"> <b>Universidad Tecnológica Nacional, Facultad Regional Concepción del Uruguay</b>.</a> <br>
+    Tengo formación en <b>desarrollo de software, desarrollador con IA, bases de datos y análisis de sistemas.</b></br>
+    Me interesa la <b>Ciberseguridad y el Análisis de Datos</b>, las cuales van a ser futuras áreas a desarrollar para mi formación académica<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> </br>
+    Busco incorporarme a un equipo de trabajo donde pueda aplicar mis conocimientos, adquirir experiencia
+profesional y seguir desarrollándome en el área tecnológica
+  </em> 
+</p>
