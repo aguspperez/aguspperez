@@ -26,6 +26,6 @@ Here are some ideas to get you started:
  
 <p align="center">
     <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Repository.svg" width="15px">Lenguajes y Herramientas<img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Repository.svg" width="15px">
-    [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 </p>
+ [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
