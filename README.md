@@ -32,6 +32,6 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
 
 
 
-###<img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Discussions.svg" width="15px"> Conecta conmigo <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Discussions.svg" width="15px">
+<img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Discussions.svg" width="15px"> ###Conecta conmigo <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Discussions.svg" width="15px">
  
 
