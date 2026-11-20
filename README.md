@@ -1,4 +1,4 @@
-## Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> soy Agustín Ponce Perez
+## Hola, soy Agustín Ponce Perez <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 
 <!--
 **aguspperez/aguspperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
