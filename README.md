@@ -28,10 +28,25 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
 <p align="center">
     <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Repository.svg" width="15px"><b>Lenguajes y Herramientas</b><img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Repository.svg" width="15px">
 </p>
- [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+MySQL: [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+Github:
+Angular:
+IA:
+Office:
+Python:
+TypeScript:
+NextJS:
+UML:
+Auth0:
+Supabase:
+
 
 
 <p align="center">
 <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Discussions.svg" width="15px"> <b>Conecta conmigo</b> <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Discussions.svg" width="15px">
 </p> 
+LinkedIn:
+Instagram:
+Correo:
+
 
