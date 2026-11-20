@@ -19,14 +19,14 @@ Here are some ideas to get you started:
   <em>
     Estudiante de último año de Ingeniería en Sistemas de la <a href="https://www.frcu.utn.edu.ar/"> <b>Universidad Tecnológica Nacional, Facultad Regional Concepción del Uruguay</b>.</a> <br>
     Tengo formación en el <b>desarrollo de software, desarrollo con IA, bases de datos y análisis de sistemas.</b></br>
-    Me interesa la <b>Ciberseguridad y el Análisis de Datos</b>, las cuales van a ser futuras áreas a desarrollar para mi formación académica<img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/StarredRepositoryYellow.svg" width="32px"> </br>
-    Busco incorporarme a un equipo de trabajo donde pueda aplicar mis conocimientos, adquirir experiencia profesional y seguir desarrollándome en el área tecnológica:muscle:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+    Me interesa la <b>Ciberseguridad y el Análisis de Datos</b>, las cuales van a ser futuras áreas a desarrollar para mi formación académica<img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/StarredRepositoryYellow.svg" width="29px"> </br>
+    Busco incorporarme a un equipo de trabajo donde pueda aplicar mis conocimientos, adquirir experiencia profesional y seguir desarrollándome en el área tecnológica<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   </em> 
 </p>
  
 <p align="center">
   <em>
-    <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Repository.svg" width="32px">Lenguajes y Herramientas👨‍💻 
+    <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Repository.svg" width="30px">Lenguajes y Herramientas👨‍💻 
     [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
   </em>
 </p>
