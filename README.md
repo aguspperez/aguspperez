@@ -20,7 +20,6 @@ Here are some ideas to get you started:
     Estudiante de último año de Ingeniería en Sistemas de la <a href="https://www.frcu.utn.edu.ar/"> <b>Universidad Tecnológica Nacional, Facultad Regional Concepción del Uruguay</b>.</a> <br>
     Tengo formación en el <b>desarrollo de software, desarrollo con IA, bases de datos y análisis de sistemas.</b></br>
     Me interesa la <b>Ciberseguridad y el Análisis de Datos</b>, las cuales van a ser futuras áreas a desarrollar para mi formación académica<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> </br>
-    Busco incorporarme a un equipo de trabajo donde pueda aplicar mis conocimientos, adquirir experiencia
-profesional y seguir desarrollándome en el área tecnológica
+    Busco incorporarme a un equipo de trabajo donde pueda aplicar mis conocimientos, adquirir experiencia profesional y seguir desarrollándome en el área tecnológica src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="30px"> 
   </em> 
 </p>
