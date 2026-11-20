@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
 -->
 
 <p align="center">
@@ -28,4 +29,6 @@ Here are some ideas to get you started:
     <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Repository.svg" width="15px">Lenguajes y Herramientas<img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Repository.svg" width="15px">
 </p>
  [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
+
+ 
+
