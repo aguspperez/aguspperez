@@ -24,6 +24,8 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
     Busco incorporarme a un equipo de trabajo donde pueda aplicar mis conocimientos, adquirir experiencia profesional y seguir desarrollándome en el área tecnológica <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="23px"> 
   </em> 
 </p>
+
+<!--
  
 <p align="center">
     <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Repository.svg" width="15px"><b>Lenguajes y Herramientas</b><img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Repository.svg" width="15px">
@@ -48,5 +50,5 @@ Supabase:
 LinkedIn:
 Instagram:
 Correo:
-
+-->
 
