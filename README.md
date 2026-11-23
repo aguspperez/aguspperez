@@ -51,7 +51,7 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a>
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.simpleicons.org/dbeaver/382923"
+      src="https://cdn.simpleicons.org/dbeaver/FFFFFF"
       alt="Dbeaver" width="40" height="40" /> </a> 
   <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" 
