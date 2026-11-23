@@ -53,7 +53,21 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
 
 </p>
 
-
+<!-- CONTACTO -->
+<p align="center">
+<img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Discussions.svg" width="15px"> <b>Conecta conmigo</b> <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Discussions.svg" width="15px">
+</p> 
+<p align="center">
+<a href="www.linkedin.com/in/agustín-ponce-pérez-168b7a216" target="blank"><img align="center" 
+   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+   alt="Agustin Ponce Perez" height="30" width="40" /></a>
+<a href="https://www.instagram.com/agusponceperez_/" target="blank"><img align="center" 
+   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+   alt="agusponceperez_" height="30" width="40" /></a>
+<a href="mailto:agustinponceperez@gmail.com" target="blank"><img align="center" 
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" 
+   alt="agustinponceperez" height="30" width="40" /></a>
+</p>
 
 
 <!--
