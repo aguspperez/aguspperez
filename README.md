@@ -29,14 +29,20 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
     <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Repository.svg" width="15px"><b>Lenguajes y Herramientas</b><img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Repository.svg" width="15px">
 </p>
 <p align="center">  
-<!--   C#     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a>  -->
-<!--   TypeScript       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a>   -->
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img 
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"
+      alt="csharp" width="40" height="40" /> </a>
+  <a href="https://www.typescriptlang.org/" rel="noreferrer"> <img
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"
+      alt="javascript" width="40" height="40" /> </a>  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a>
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.simpleicons.org/dbeaver/382923"
       alt="mysql" width="40" height="40" /> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -44,13 +50,33 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
       alt="pandas" width="40" height="40" /> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> 
-
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="python"
+      width="40" height="40" /> </a> 
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="python"
+      width="40" height="40" /> </a> 
+  <a href="https://opencode.ai/brand" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode.svg" alt="python"
+      width="40" height="40" /> </a>
+  <a href="https://www.microsoft.com/es-ar/microsoft-365/download-office" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/office-365.svg" alt="python"
+      width="40" height="40" /> </a>
+  <a href="https://www.microsoft.com/es-ar/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" alt="python"
+      width="40" height="40" /> </a>
+  <a href="https://astah.net/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.simpleicons.org/uml/FABD14" alt="python"
+      width="40" height="40" /> </a>
+  <a href="https://auth0.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.simpleicons.org/auth0/FFFFFF" alt="python"
+      width="40" height="40" /> </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" alt="python"
+      width="40" height="40" /> </a>
 </p>
 
 <!-- CONTACTO -->
