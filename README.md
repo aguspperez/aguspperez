@@ -67,13 +67,9 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
 <a href="mailto:agustinponceperez@gmail.com" target="blank"><img align="center" 
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" 
    alt="agustinponceperez" height="30" width="40" /></a>
-<a href="mailto:agustinponceperez@gmail.com" target="blank"><img align="center" 
-   src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" 
-   alt="agustinponceperez" height="30" width="40" /></a>
 <a href="https://discord.gg/1027417244105445477" target="blank"><img align="center" 
    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
    alt="agu" height="30" width="40" /></a>
-
 </p>
 
 
