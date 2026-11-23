@@ -53,12 +53,15 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a>
-  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.simpleicons.org/dbeaver/FFFFFF"
-      alt="Dbeaver" width="40" height="40" /> </a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"
+      alt="postgresql" width="40" height="40" /> </a> 
   <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" 
       alt="supabase" width="40" height="40" /> </a>
+  <a href="https://github.com/"> <img
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" 
+      alt="github" width="40" height="40" /> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" 
       alt="git" width="40" height="40" /> </a> 
@@ -80,6 +83,9 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
   <a href="https://opencode.ai/brand" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode-dark.svg" 
       alt="opencode" width="40" height="40" /> </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" 
+      alt="postman" width="40" height="40" /> </a>
 </p>
 
 <!-- CONTACTO -->
