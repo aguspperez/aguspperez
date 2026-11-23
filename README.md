@@ -58,8 +58,8 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
 <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Discussions.svg" width="15px"> <b>Conecta conmigo</b> <img src="https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Discussions.svg" width="15px">
 </p> 
 <p align="center">
-<a href="www.linkedin.com/in/agustín-ponce-pérez-168b7a216" target="blank"><img align="center" 
-   src="https://www.linkedin.com/in/agust%C3%ADn-ponce-p%C3%A9rez-168b7a216/" 
+<a href="https://www.linkedin.com/in/agust%C3%ADn-ponce-p%C3%A9rez-168b7a216/" target="blank"><img align="center" 
+   src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" 
    alt="Agustin Ponce Perez" height="30" width="40" /></a>
 <a href="https://www.instagram.com/agusponceperez_/" target="blank"><img align="center" 
    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
