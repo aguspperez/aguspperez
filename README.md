@@ -64,7 +64,7 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif
 <a href="https://www.instagram.com/agusponceperez_/" target="blank"><img align="center" 
    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
    alt="agusponceperez" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" 
+<a href="mailto:agustinponceperez@gmail.com" target="blank"><img align="center" 
    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" 
    alt="agustinponceperez" height="30" width="40" /></a>
 </p>
